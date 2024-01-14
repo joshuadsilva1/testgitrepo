@@ -1,0 +1,25 @@
+
+
+
+body{
+padding: 50px 0px 0px  250px;
+background: aliceblue;
+}
+
+.contain{
+
+    max-width: 800px;
+    border: 3px solid rgb(29, 33, 29);
+    border-radius: 20px;
+    padding: 50px;
+    margin: 20px;
+    box-shadow: black 0px 9px 31px 0px;
+
+}
+
+.inputbox{
+
+
+width: 100%;
+
+}
